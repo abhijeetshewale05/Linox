@@ -1,11 +1,9 @@
-# Linox
-A clean, premium squircle-based icon theme for Linux desktops, inspired by macOS but uniquely brand-free. Elevate your Linux desktop with Linox—a premium, brand-free squircle icon pack combining the best of macOS aesthetics with native Linux consistency.
-
 # Linox Icon Theme
+A clean, premium squircle-based icon theme for Linux desktops, inspired by macOS but uniquely brand-free. Elevate your Linux desktop with Linox—a premium, brand-free squircle icon pack combining the best of macOS aesthetics with native Linux consistency.
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/abhijeetshewale1947) 
 
-**Linox** is a clean, premium, **squircle-based Linux icon theme** designed for modern desktop environments. If you are looking to elevate your Linux desktop customization with a polished, unified aesthetic, Linox delivers a highly consistent experience.
+**Linox Icon Theme** is a clean, premium, **squircle-based Linux icon theme** designed for modern desktop environments. If you are looking to elevate your Linux desktop customization with a polished, unified aesthetic, Linox delivers a highly consistent experience.
 
 While heavily inspired by the sleek shapes of **macOS**, this icon pack is intentionally designed to be **brand-free**. It removes all Apple branding, allowing your system to feel uniquely its own rather than a cheap clone. It seamlessly integrates into your workflow, providing a beautiful GTK desktop experience across distributions like Fedora, Ubuntu, Arch, and more.
 
@@ -44,3 +42,28 @@ cd Linox-Icon-Theme
 
 # Run the installer
 ./install.sh
+```
+*(Note: To install system-wide for all users, run `sudo ./install.sh`)*
+
+Once the installation is complete, open **GNOME Tweaks** (or your respective desktop environment's appearance settings) and select "Linox" or one of its color variants to apply the theme.
+
+## 🚀 Roadmap & Availability
+* Expanding icon coverage for missing third-party Linux applications.
+* Future optimizations and dedicated support for KDE Plasma.
+* Upcoming official release and publication on **gnome-look.org** for easier community access and updates.
+
+## 📝 License
+GPL-3.0 - See the LICENSE file for details.
+
+---
+
+## 🤝 Special Thanks & Sources
+
+This project would not be possible without the incredible open-source foundations built by other creators in the Linux ricing community. A massive and sincere thank you to the developers of the following themes, which served as the core inspiration and building blocks for Linox:
+
+* **[MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-icon-theme)** - For the gorgeous scalable app icons and the foundational squircle design.
+* **[Hatter Icon Theme](https://github.com/Mibea/Hatter)** - For serving as the highly versatile and organized foundational base for the folders and structures.
+* **[Adwaita Icon Theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)** - For the classic, reliable GNOME design principles that keep the Linux desktop feeling native.
+
+---
+**Keywords:** `linux icon theme` `squircle icons` `gnome customization` `macos inspired` `gtk theme` `desktop ricing` `linux customization` `fedora` `ubuntu` `nautilus theme` `full icon theme`
