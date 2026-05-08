@@ -46,7 +46,7 @@ To install the Linox icon pack for your current user, simply clone the repositor
 
 ```bash
 # Clone the repository
-git clone [https://github.com/abhijeetshewale05/Linox-Icon-Theme.git](https://github.com/abhijeetshewale05/Linox-Icon-Theme.git)
+git clone https://github.com/abhijeetshewale05/Linox-Icon-Theme
 
 # Navigate into the directory
 cd Linox-Icon-Theme
