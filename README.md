@@ -35,13 +35,13 @@ While heavily inspired by the sleek shapes of macOS, this icon pack is intention
 ![Pebble Preview 1](Preview/1.png)
 
 ### Features & Highlights
-![Pebble Preview 4](Preview/4.png)
+![Pebble Preview 4](Preview/2.png)
 
 ### Folder Color Variants
-![Pebble Preview 2](Preview/2.png)
+![Pebble Preview 2](Preview/3.png)
 
 ### App Menu
-![Pebble Preview 3](Preview/3.png)
+![Pebble Preview 3](Preview/4.png)
 
 ## 📥 Installation Guide
 
