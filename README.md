@@ -1,6 +1,6 @@
-# Linox Icon Theme
+# Pebble Icon Theme
 
-Elevate your Linux desktop with Linox—a premium, brand-free squircle icon pack combining the best of macOS aesthetics with native Linux consistency.
+Elevate your Linux desktop with Pebble—a premium, brand-free squircle icon pack combining the best of macOS aesthetics with native Linux consistency.
 
 # ☕ Support the Development!
 If this theme has made your Linux desktop look a little more beautiful, consider buying me a coffee! Building and maintaining pixel-perfect icons takes a lot of time and love. Your support directly fuels new updates, more application icons, and future improvements. Thank you so much! 💖🐧
@@ -9,7 +9,7 @@ If this theme has made your Linux desktop look a little more beautiful, consider
   <img src="https://img.shields.io/badge/Donate%20with-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="220" alt="Donate with PayPal">
 </a>
 
-**Linox Icon Theme** is a clean, premium, **squircle-based Linux icon theme** designed for modern desktop environments. If you are looking to elevate your desktop customization with a polished, unified aesthetic, Linox delivers a highly consistent experience.
+**Pebble Icon Theme** is a clean, premium, **squircle-based Linux icon theme** designed for modern desktop environments. If you are looking to elevate your desktop customization with a polished, unified aesthetic, Pebble delivers a highly consistent experience.
 
 While heavily inspired by the sleek shapes of macOS, this icon pack is intentionally designed to be **brand-free**. It removes all Apple branding, allowing your system to feel uniquely its own rather than a direct clone. It seamlessly integrates into your workflow, providing a beautiful GTK desktop experience across distributions like Fedora, Ubuntu, Arch, and more.
 
@@ -32,16 +32,16 @@ While heavily inspired by the sleek shapes of macOS, this icon pack is intention
 ## 📸 Screenshots
 
 ### Application Icons
-![Linox Preview 1](Preview/1.png)
+![Pebble Preview 1](Preview/1.png)
 
 ### Features & Highlights
-![Linox Preview 4](Preview/4.png)
+![Pebble Preview 4](Preview/4.png)
 
 ### Folder Color Variants
-![Linox Preview 2](Preview/2.png)
+![Pebble Preview 2](Preview/2.png)
 
 ### App Menu
-![Linox Preview 3](Preview/3.png)
+![Pebble Preview 3](Preview/3.png)
 
 ## 📥 Installation Guide
 
@@ -49,21 +49,21 @@ While heavily inspired by the sleek shapes of macOS, this icon pack is intention
 Ensure you have `git` installed on your system to download the repository.
 
 ### Install via Terminal Script
-To install the Linox icon pack for your current user, simply clone the repository and execute the installation script:
+To install the Pebble icon pack for your current user, simply clone the repository and execute the installation script:
 
 ```bash
 # Clone the repository
-git clone https://github.com/abhijeetshewale05/Linox-Icon-Theme
+git clone https://github.com/abhijeetshewale05/Pebble-Icon-Theme
 
 # Navigate into the directory
-cd Linox-Icon-Theme
+cd Pebble-Icon-Theme
 
 # Run the installer
 ./install.sh
 ```
 *(Note: To install system-wide for all users, run `sudo ./install.sh`)*
 
-Once the installation is complete, open **GNOME Tweaks** (or your respective desktop environment's appearance settings) and select "Linox" or one of its color variants to apply the theme.
+Once the installation is complete, open **GNOME Tweaks** (or your respective desktop environment's appearance settings) and select "Pebble" or one of its color variants to apply the theme.
 
 ## 🚀 Roadmap & Availability
 * Expanding icon coverage for missing third-party Linux applications.
@@ -84,7 +84,7 @@ GPL-3.0 - See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Special Thanks & Sources
 
-This project would not be possible without the incredible open-source foundations built by other creators in the Linux ricing community. A massive and sincere thank you to the developers of the following themes, which served as the core inspiration and building blocks for Linox:
+This project would not be possible without the incredible open-source foundations built by other creators in the Linux ricing community. A massive and sincere thank you to the developers of the following themes, which served as the core inspiration and building blocks for Pebble:
 
 * **[MacTahoe Icon Theme](https://github.com/vinceliuice/MacTahoe-icon-theme)** - For the gorgeous scalable app icons and the foundational squircle design.
 * **[Hatter Icon Theme](https://github.com/Mibea/Hatter)** - For serving as the highly versatile and organized foundational base for the folders and structures.
@@ -99,3 +99,5 @@ If this theme has made your Linux desktop look a little more beautiful, consider
 
 ---
 **Keywords:** `linux icon theme` `squircle icons` `gnome customization` `macos inspired` `gtk theme` `desktop ricing` `linux customization` `fedora` `ubuntu` `nautilus theme` `full icon theme`
+
+
